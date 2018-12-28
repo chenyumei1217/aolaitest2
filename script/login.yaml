@@ -1,0 +1,24 @@
+test_login_001:
+  username: "13488834010"
+  password: "159357li"
+  tag: 1
+
+test_login_002:
+  username: " 13488834010"
+  password: "159357li"
+  tag: 1
+
+test_login_003:
+  username: "13488834010 "
+  password: "159357li"
+  tag: 1
+
+test_login_006:
+  username: "13488834010 "
+  password: "9998888"
+  tag: 0
+
+test_login_010:
+  username: "中国"
+  password: "9998888"
+  tag: 0
